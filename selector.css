@@ -1,0 +1,26 @@
+
+h1{
+    text-align: center;
+    
+}
+p{
+    color: brown;
+}
+  .cls{
+    
+color: pink;
+}
+#id_selector{
+    color: green;
+}
+div > ol {
+    font-size: medium;
+    color: orange;
+}
+ 
+ div + li {
+  color: blue;
+}
+#mainselector{
+  color: blue;
+}
